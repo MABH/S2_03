@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "63a40e34b0a2eaded36469bf"
+  },
+  "marca": "Raivan",
+  "cristalE": {
+    "graduacio": "-0,75",
+    "color": "Transparent"
+  },
+  "cristalD": {
+    "graduacio": "+0,75",
+    "color": "Transparent"
+  },
+  "muntura": {
+    "tipus": "flotant",
+    "color": "blanc"
+  },
+  "preu": 800,
+  "proveïdor_id": {
+    "$oid": "63a40facb0a2eaded36469c3"
+  }
+},{
+  "_id": {
+    "$oid": "63a40e34b0a2eaded36469c0"
+  },
+  "marca": "Hoaclei",
+  "cristalE": {
+    "graduacio": "-1,75",
+    "color": "Gris"
+  },
+  "cristalD": {
+    "graduacio": "+1,75",
+    "color": "Gris"
+  },
+  "muntura": {
+    "tipus": "pasta",
+    "color": "negre"
+  },
+  "preu": 1000,
+  "proveïdor_id": {
+    "$oid": "63a40facb0a2eaded36469c4"
+  }
+}]

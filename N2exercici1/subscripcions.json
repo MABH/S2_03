@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63a5a413f9540d175ef665de"
+  },
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665d0"
+  },
+  "canal_id": {
+    "$oid": "63a59d72f9540d175ef665d4"
+  }
+},{
+  "_id": {
+    "$oid": "63a5a413f9540d175ef665df"
+  },
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  },
+  "canal_id": {
+    "$oid": "63a59d72f9540d175ef665d6"
+  }
+}]

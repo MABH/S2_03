@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63a42132b0a2eaded36469d7"
+  },
+  "nom": "Angelines",
+  "cognoms": "Garcia Nesa",
+  "adreça": "C/Calle",
+  "cp": "08765",
+  "localitat_id": {
+    "$oid": "63a42244b0a2eaded36469db"
+  },
+  "telefon": "123456788"
+},{
+  "_id": {
+    "$oid": "63a42132b0a2eaded36469d8"
+  },
+  "nom": "Manolo",
+  "cognoms": "Cabeza Bolo",
+  "adreça": "C/Otra Calle",
+  "cp": "09767",
+  "localitat_id": {
+    "$oid": "63a42244b0a2eaded36469dc"
+  },
+  "telefon": "98765432"
+}]

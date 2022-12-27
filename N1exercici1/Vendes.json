@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63a41307b0a2eaded36469cd"
+  },
+  "empleat": "Maria",
+  "client_id": {
+    "$oid": "63a40a17b0a2eaded36469b6"
+  },
+  "ullera_id": {
+    "$oid": "63a40e34b0a2eaded36469bf"
+  }
+},{
+  "_id": {
+    "$oid": "63a41307b0a2eaded36469ce"
+  },
+  "empleat": "Mario",
+  "client_id": {
+    "$oid": "63a40a17b0a2eaded36469b7"
+  },
+  "ullera_id": {
+    "$oid": "63a40e34b0a2eaded36469c0"
+  }
+}]

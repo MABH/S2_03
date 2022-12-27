@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "63a42a63b0a2eaded36469ff"
+  },
+  "nom": "BigMag",
+  "descripcio": "Succedani de carn aprenentatgement més gran que el normal.",
+  "imatge": {
+    "nom": "FotoBigMag",
+    "img": "/img/FotoBigMag.png"
+  },
+  "preu": 10
+},{
+  "_id": {
+    "$oid": "63a42a63b0a2eaded3646a00"
+  },
+  "nom": "ColaCola",
+  "descripcio": "Excipients i edulcorants amb gel per un tub.",
+  "imatge": {
+    "nom": "FotoCola",
+    "img": "/img/FotoCola.png"
+  },
+  "preu": 3
+},{
+  "_id": {
+    "$oid": "63a42a63b0a2eaded3646a01"
+  },
+  "nom": "Macedonia",
+  "descripcio": "Pizza amb quantitats exagerades de pinya.",
+  "imatge": {
+    "nom": "FotoMacedonia",
+    "img": "/img/FotoMacedonia.png"
+  },
+  "categoria_pizza": {
+    "_id": {
+      "$oid": "63a44cccb0a2eaded3646a18"
+    },
+    "nom": "Estiu",
+    "pizza": {
+      "_id": {
+        "$oid": "63a446b4b0a2eaded3646a11"
+      },
+      "nom": "PizzaAmbPinya"
+    }
+  },
+  "preu": 13
+}]

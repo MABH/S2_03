@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63a40facb0a2eaded36469c3"
+  },
+  "nom": "Ulleres Cesc",
+  "telefon": "965673210",
+  "fax": "965673220",
+  "nif": "12342345M",
+  "adreça": "C/adreces 1]"
+},{
+  "_id": {
+    "$oid": "63a40facb0a2eaded36469c4"
+  },
+  "nom": "Optica Nomibeig",
+  "telefon": "935673415",
+  "fax": "935673416",
+  "nif": "23456789M",
+  "adreça": "C/carrer 1]"
+}]

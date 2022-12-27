@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "63a1757d434070aecb537d8a"
+  },
+  "nom": "Manel",
+  "imatge": "/img/manel.png",
+  "estil": "pop",
+  "albums": [
+    {
+      "_id": {
+        "$oid": "63a2e45f6f763ea2b9484e36"
+      },
+      "titol": "Els millors professors europeus",
+      "any": 2007,
+      "portada": "/img/els_millors.png",
+      "cançons": [
+        {
+          "_id": {
+            "$oid": "63a2e4716f763ea2b9484e37"
+          },
+          "titol": "En la que el Bernat se't troba",
+          "durada": 259,
+          "reproduccions": 100
+        },
+        {
+          "_id": {
+            "$oid": "63a2e47a6f763ea2b9484e38"
+          },
+          "titol": "Avís per a navegants",
+          "durada": 166,
+          "reproduccions": 200
+        },
+        {
+          "_id": {
+            "$oid": "63a2e4816f763ea2b9484e39"
+          },
+          "titol": "Ai, Dolors",
+          "durada": 199,
+          "reproduccions": 300
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a17717434070aecb537d8c"
+  },
+  "nom": "Queen",
+  "imatge": "/img/queen.png",
+  "estil": "rock",
+  "albums": [
+    {
+      "_id": {
+        "$oid": "63a2e51f6f763ea2b9484e3a"
+      },
+      "titol": "Queen ",
+      "any": 1973,
+      "portada": "/img/album_queen.png",
+      "cançons": [
+        {
+          "_id": {
+            "$oid": "63a2e52c6f763ea2b9484e3b"
+          },
+          "titol": "Keep Yourself Alive",
+          "durada": 227,
+          "reproduccions": 1000
+        },
+        {
+          "_id": {
+            "$oid": "63a2e5386f763ea2b9484e3c"
+          },
+          "titol": "Doing All Right",
+          "durada": 249,
+          "reproduccions": 2000
+        },
+        {
+          "_id": {
+            "$oid": "63a2e5406f763ea2b9484e3d"
+          },
+          "titol": "Great King Rat:",
+          "durada": 442,
+          "reproduccions": 3000
+        }
+      ]
+    }
+  ]
+}]

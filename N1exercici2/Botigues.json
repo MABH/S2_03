@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63a424a5b0a2eaded36469ee"
+  },
+  "adreça": "C/string",
+  "cp": "07896",
+  "localitat_id": {
+    "$oid": "63a42244b0a2eaded36469dc"
+  }
+},{
+  "_id": {
+    "$oid": "63a424a5b0a2eaded36469ef"
+  },
+  "adreça": "C/micalle",
+  "cp": "08898",
+  "localitat_id": {
+    "$oid": "63a42244b0a2eaded36469db"
+  }
+}]

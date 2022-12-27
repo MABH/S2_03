@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  },
+  "email": "myemail@email.com",
+  "password": "123456",
+  "nom": "Paquita",
+  "data_neixament": "1950-12-03",
+  "sexe": "f",
+  "pais": "España",
+  "cp": "075678"
+},{
+  "_id": {
+    "$oid": "63a59a00f9540d175ef665d0"
+  },
+  "email": "email@email.com",
+  "password": "234561",
+  "nom": "Francisco",
+  "data_neixament": "1960-02-13",
+  "sexe": "m",
+  "pais": "España",
+  "cp": "085608"
+}]

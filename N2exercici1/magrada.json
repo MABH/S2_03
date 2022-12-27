@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "63aab5f63568826a4d236622"
+  },
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  },
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1670803200000"
+    }
+  },
+  "comentari_id": {
+    "$oid": "63aab4933568826a4d236612"
+  }
+}]

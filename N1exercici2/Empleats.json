@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63a578eef9540d175ef665c8"
+  },
+  "nom": "Jaume",
+  "cognom": "Balcells Gutierrez",
+  "telefon": "965432209",
+  "tipus": "repartidor",
+  "repartidor": {
+    "data_lliurament": {
+      "$date": {
+        "$numberLong": "1672185600000"
+      }
+    },
+    "comanda_id": {
+      "$oid": "63a570d1f9540d175ef665bf"
+    }
+  },
+  "botiga_id": {
+    "$oid": "63a424a5b0a2eaded36469ee"
+  }
+},{
+  "_id": {
+    "$oid": "63a578eef9540d175ef665c9"
+  },
+  "nom": "Carme",
+  "cognom": "Gutierrez Barceló",
+  "telefon": "935433309",
+  "tipus": "cuiner",
+  "botiga_id": {
+    "$oid": "63a424a5b0a2eaded36469ef"
+  }
+}]

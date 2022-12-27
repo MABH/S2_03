@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "63a570d1f9540d175ef665be"
+  },
+  "data": "2022-12-20",
+  "tipus": "recollir",
+  "client_id": {
+    "$oid": "63a42132b0a2eaded36469d7"
+  },
+  "quantitats": {
+    "begudes": 1,
+    "beguda_id": {
+      "$oid": "63a42a63b0a2eaded3646a00"
+    },
+    "hamburgueses": 1,
+    "hamburguesa_id": {
+      "$oid": "63a42a63b0a2eaded36469ff"
+    }
+  },
+  "preu": 15
+},{
+  "_id": {
+    "$oid": "63a570d1f9540d175ef665bf"
+  },
+  "data": "2022-12-27",
+  "tipus": "domicili",
+  "client_id": {
+    "$oid": "63a42132b0a2eaded36469d8"
+  },
+  "quantitats": {
+    "begudes": 1,
+    "beguda_id": {
+      "$oid": "63a42a63b0a2eaded3646a00"
+    },
+    "pizzes": 1,
+    "pizza_id": {
+      "$oid": "63a446b4b0a2eaded3646a11"
+    }
+  },
+  "preu": 15
+}]

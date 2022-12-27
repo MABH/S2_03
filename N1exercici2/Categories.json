@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "63a44cccb0a2eaded3646a18"
+  },
+  "nom": "Estiu",
+  "pizzes_id": [
+    {
+      "pizza_Id": {
+        "$oid": "63a446b4b0a2eaded3646a11"
+      }
+    },
+    {
+      "pizza_Id": {
+        "$oid": "63a446b4b0a2eaded3646a13"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a44d63b0a2eaded3646a1c"
+  },
+  "nom": "Hivern",
+  "pizzes_id": [
+    {
+      "pizza_Id": {
+        "$oid": "63a446b4b0a2eaded3646a12"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "63a59d72f9540d175ef665d4"
+  },
+  "nom": "Canal1",
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1599004800000"
+    }
+  },
+  "descripcio": "El meu primer canal",
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  }
+},{
+  "_id": {
+    "$oid": "63a59d72f9540d175ef665d5"
+  },
+  "nom": "Canal2",
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1640044800000"
+    }
+  },
+  "descripcio": "El meu segon canal",
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  }
+},{
+  "_id": {
+    "$oid": "63a59d72f9540d175ef665d6"
+  },
+  "nom": "Videos",
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1284249600000"
+    }
+  },
+  "descripcio": "Canal de videos",
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665d0"
+  }
+},{
+  "_id": {
+    "$oid": "63a59d72f9540d175ef665d7"
+  },
+  "nom": "Videoclips",
+  "data_creacio": {
+    "$date": {
+      "$numberLong": "1320969600000"
+    }
+  },
+  "descripcio": "Videos de música",
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665d0"
+  }
+}]

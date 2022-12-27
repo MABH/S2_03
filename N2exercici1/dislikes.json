@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "63aab0023568826a4d2365f5"
+  },
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  },
+  "video_id": {
+    "$oid": "63aaadc13568826a4d2365e0"
+  },
+  "data": {
+    "$date": {
+      "$numberLong": "1643760000000"
+    }
+  }
+}]

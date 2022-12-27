@@ -1,0 +1,237 @@
+[{
+  "_id": {
+    "$oid": "63a1900f434070aecb537d8f"
+  },
+  "email": "email@email.com",
+  "nom": "Ferran",
+  "neixement": {
+    "$date": {
+      "$numberLong": "946684800000"
+    }
+  },
+  "sexe": "m",
+  "pais": "España",
+  "cp": "08890",
+  "tipus": "premium",
+  "premium": {
+    "inici": {
+      "$date": {
+        "$numberLong": "1607731200000"
+      }
+    },
+    "renovacio": {
+      "$date": {
+        "$numberLong": "1673481600000"
+      }
+    },
+    "targeta": {
+      "nombre": "1234567890",
+      "mes": 12,
+      "any": 2027,
+      "cs": "220"
+    },
+    "paypal": {
+      "nom": "Ferran"
+    },
+    "pagaments": [
+      {
+        "data": {
+          "$date": {
+            "$numberLong": "1607731200000"
+          }
+        },
+        "ordre": "123456789",
+        "total": 30
+      },
+      {
+        "data": {
+          "$date": {
+            "$numberLong": "1610409600000"
+          }
+        },
+        "ordre": "123456799",
+        "total": 30
+      }
+    ]
+  },
+  "playlist": [
+    {
+      "_id": {
+        "$oid": "63a2e35e6f763ea2b9484e33"
+      },
+      "titol": "Playlist_1",
+      "tipus": "activa",
+      "eliminada_data": {
+        "$date": {
+          "$numberLong": "-62167219200000"
+        }
+      },
+      "cançons": [
+        {
+          "canço_id": "63a2e4716f763ea2b9484e37",
+          "usuari_id": "63a1900f434070aecb537d8f",
+          "data": {
+            "$date": {
+              "$numberLong": "1582416000000"
+            }
+          }
+        },
+        {
+          "canço_id": "63a2e47a6f763ea2b9484e38",
+          "usuari_id": "63a1900f434070aecb537d8f",
+          "data": {
+            "$date": {
+              "$numberLong": "1640044800000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "63a2e3696f763ea2b9484e34"
+      },
+      "titol": "Playlist_2",
+      "tipus": "activa",
+      "eliminada_data": {
+        "$date": {
+          "$numberLong": "-62167219200000"
+        }
+      },
+      "cançons": [
+        {
+          "canço_id": "63a2e52c6f763ea2b9484e3b",
+          "usuari_id": "63a1900f434070aecb537d8f",
+          "data": {
+            "$date": {
+              "$numberLong": "1582416000000"
+            }
+          }
+        },
+        {
+          "canço_id": "63a2e5406f763ea2b9484e3d",
+          "usuari_id": "63a1900f434070aecb537d8f",
+          "data": {
+            "$date": {
+              "$numberLong": "1640044800000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "favorits": [
+    {
+      "artista_id": "63a1757d434070aecb537d8a",
+      "canço_id": "63a2e47a6f763ea2b9484e38",
+      "album_id": "63a2e45f6f763ea2b9484e36"
+    },
+    {
+      "artista_id": "63a1757d434070aecb537d8a",
+      "canço_id": "63a2e4816f763ea2b9484e39",
+      "album_id": "63a2e45f6f763ea2b9484e36"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a1a079434070aecb537d92"
+  },
+  "email": "miemail@miemail.com",
+  "nom": "Miguel",
+  "neixement": {
+    "$date": {
+      "$numberLong": "329097600000"
+    }
+  },
+  "sexe": "m",
+  "pais": "Costa Rica",
+  "cp": "06870",
+  "tipus": "free",
+  "premium": {
+    "inici": {
+      "$date": {
+        "$numberLong": "-62167219200000"
+      }
+    },
+    "renovacio": {
+      "$date": {
+        "$numberLong": "-62167219200000"
+      }
+    },
+    "targeta": {
+      "nombre": "",
+      "mes": 0,
+      "any": 0,
+      "cs": ""
+    },
+    "paypal": {
+      "nom": ""
+    },
+    "pagaments": [
+      {
+        "data": {
+          "$date": {
+            "$numberLong": "-62167219200000"
+          }
+        },
+        "ordre": "",
+        "total": 0
+      },
+      {
+        "data": {
+          "$date": {
+            "$numberLong": "-62167219200000"
+          }
+        },
+        "ordre": "",
+        "total": 0
+      }
+    ]
+  },
+  "playlist": [
+    {
+      "_id": {
+        "$oid": "63a2e2ce6f763ea2b9484e32"
+      },
+      "titol": "Playlist_1",
+      "tipus": "esborrada",
+      "eliminada_data": {
+        "$date": {
+          "$numberLong": "-62167219200000"
+        }
+      },
+      "cançons": [
+        {
+          "canço_id": "63a2e52c6f763ea2b9484e3b",
+          "usuari_id": "63a1a079434070aecb537d92",
+          "data": {
+            "$date": {
+              "$numberLong": "1550880000000"
+            }
+          }
+        },
+        {
+          "canço_id": "63a2e5386f763ea2b9484e3c",
+          "usuari_id": "63a1a079434070aecb537d92",
+          "data": {
+            "$date": {
+              "$numberLong": "1545350400000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "favorits": [
+    {
+      "artista_id": "63a17717434070aecb537d8c",
+      "canço_id": "63a2e5386f763ea2b9484e3c",
+      "album_id": "63a2e51f6f763ea2b9484e3a"
+    },
+    {
+      "artista_id": "63a17717434070aecb537d8c",
+      "canço_id": "63a2e5406f763ea2b9484e3d",
+      "album_id": "63a2e51f6f763ea2b9484e3a"
+    }
+  ]
+}]

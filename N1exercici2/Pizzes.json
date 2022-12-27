@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "63a446b4b0a2eaded3646a11"
+  },
+  "nom": "Macedonia"
+},{
+  "_id": {
+    "$oid": "63a446b4b0a2eaded3646a12"
+  },
+  "nom": "Texas"
+},{
+  "_id": {
+    "$oid": "63a446b4b0a2eaded3646a13"
+  },
+  "nom": "Hawaiana"
+}]

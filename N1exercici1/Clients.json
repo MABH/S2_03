@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63a40a17b0a2eaded36469b6"
+  },
+  "nom": "Juli",
+  "cp": "07986",
+  "telefon": "942437690",
+  "email": "email@email.com",
+  "data_registre": {
+    "$date": {
+      "$numberLong": "969753600000"
+    }
+  },
+  "recomanador_id": {
+    "$oid": "63a40a17b0a2eaded36469b6"
+  }
+},{
+  "_id": {
+    "$oid": "63a40a17b0a2eaded36469b7"
+  },
+  "nom": "Marta",
+  "cp": "067987",
+  "telefon": "942437961",
+  "email": "memail@memail.com",
+  "data_registre": {
+    "$date": {
+      "$numberLong": "972691200000"
+    }
+  },
+  "recomanador_id": {
+    "$oid": "63a40a17b0a2eaded36469b6"
+  }
+}]

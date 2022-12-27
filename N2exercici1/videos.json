@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "63aaadc13568826a4d2365df"
+  },
+  "titol": "vacances d'estiu",
+  "descripcio": "les meves vacances",
+  "grandaria": 20000,
+  "nom_arxiu": "vacances_2021.mpeg",
+  "durada_segons": 1800,
+  "thumbnail": "img/thumb_0054.png",
+  "reproduccions": 30,
+  "likes": 1,
+  "dislikes": 0,
+  "estat": "public",
+  "data_publicacio": {
+    "$date": {
+      "$numberLong": "1633824000000"
+    }
+  },
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665cf"
+  }
+},{
+  "_id": {
+    "$oid": "63aaadc13568826a4d2365e0"
+  },
+  "titol": "comida de empresa",
+  "descripcio": "Comida de empresa de fin de año 2019",
+  "grandaria": 40000,
+  "nom_arxiu": "FinDeAnyo_19.mp4",
+  "durada_segons": 3600,
+  "thumbnail": "img/thumb_0064.png",
+  "reproduccions": 100,
+  "likes": 10,
+  "dislikes": 20,
+  "estat": "public",
+  "data_publicacio": {
+    "$date": {
+      "$numberLong": "1581292800000"
+    }
+  },
+  "usuari_id": {
+    "$oid": "63a59a00f9540d175ef665d0"
+  }
+}]
